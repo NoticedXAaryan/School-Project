@@ -47,7 +47,7 @@ The Spending Analysis Tool allows users to:
 
    1. Run the main program:
       ```bash
-      cd Informatic Practice
+      cd School-Project/Informatic Practice
       ```
       
       ```bash
