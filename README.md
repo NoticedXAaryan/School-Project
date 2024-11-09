@@ -37,6 +37,7 @@ The Spending Analysis Tool allows users to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/NoticedXAaryan/School-Project.git
+   ```
    
 2. Install the required libraries:
    ```bash
@@ -45,10 +46,15 @@ The Spending Analysis Tool allows users to:
 3. Usage
 
    1. Run the main program:
-       ```bash
+      ```bash
+      cd Informatic Practice
+      ```
+      
+      ```bash
        python main.py
+      ```
 
-   2. Choose an option from the main menu to start a new project, load an existing project, or exit the program.
+   3. Choose an option from the main menu to start a new project, load an existing project, or exit the program.
 
 4. License
 
