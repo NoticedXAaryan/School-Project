@@ -37,7 +37,7 @@ The Spending Analysis Tool allows users to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/School-Project.git
-
+   
 2. Install the required libraries:
    ```bash
    pip install pandas matplotlib
