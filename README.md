@@ -41,7 +41,8 @@ The Spending Analysis Tool allows users to:
    
 2. Install the required libraries:
    ```bash
-   pip install pandas matplotlib
+   pip install pyforest
+   ```
 
 3. Usage
 
