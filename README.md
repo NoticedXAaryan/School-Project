@@ -36,7 +36,7 @@ The Spending Analysis Tool allows users to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/School-Project.git
+   [git clone https://github.com/yourusername/School-Project.git](https://github.com/NoticedXAaryan/School-Project.git)
    
 2. Install the required libraries:
    ```bash
